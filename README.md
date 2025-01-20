@@ -1,6 +1,6 @@
 # Draw.io
 
-Test assignment description file: readme_drawio_test.pdf
+Test assignment description file: `readme_drawio_test.pdf`
 
 Test assignment from Voodoo
 
